@@ -1,0 +1,30 @@
+hit "Windows Button" and "r" at the same time, It will open "run". Write %appdata%. Click .minecraft
+
+Click on "Version" and drag the "Fluffy" folder in.
+
+You can now close it and go into minecraft launcher.
+
+click "Installations" and then click on "new".
+
+Where it says "NAME" write FluffyClient or Fluffy, Whatever you whant.
+
+on "VERSION" Click on "Lastest release" and then scroll down until you find "Fluffy" its a long way down. if you find  1.8.8 then just scroll a bit more down and you will find 
+"Fluffy" click on it and click create.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+if you whant any more help feel free to add me on discord "Fluffycaat#8382" Or you can join my discord server! I would be verry happy if you did.
+"https://discord.io/FluffyClient" beacuse if you really whana try the client out and you cant, I and my "team" will find a way!
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Thank you for downloading.
+
+
+
+
+- Cape / logo designer: Hobbyshop#2236                                          (message me on discord to get one MAYBE "Fluffycaat#8382")
+
+- Owner, Fluffycaat#8382 made all the codinggggg (it was verrrryyyy borrrrrinngggg to make all the code)
+
